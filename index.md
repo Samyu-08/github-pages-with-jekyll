@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website"
+title: "Hi"
 ---
 
-I'm glad you are here. This is my website
+What is up
