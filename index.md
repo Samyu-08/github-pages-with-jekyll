@@ -1,5 +1,5 @@
 ---
-title: "Hi"
+title: "The Amazing Samyu"
 ---
 
-What is up
+The Wonderful Samyuktha Minupala
