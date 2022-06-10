@@ -8,6 +8,6 @@ date: 2022-06-08
 - Varisty Tennis (yay?)
 - Classical Indian Dancing
 - Somewhat decent at Piano
-- Knowns how to not drown
+- Knows how to not drown
 - Did I mention this face?
 
